@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Development Restful server Db.Json Demo 
 
-Run `npm run startall` to start both a dev server on port 4200  and a dev local restful server on port 3050. Navigate to `http://localhost:4200/actors`. This will redirect the request to a proxy server that is running and started on `http://localhost:3050` use proxy.conf.js to config the server fully. Actors returns a demo json file of actors who have appeared in starwars movies. I use `concurrently` to start both demo restful server is which `json-server` and the webpack dev server. as shown below :    
+Run `npm run startall` to start both a dev server on port 4200  and a dev local restful server on port 3050. Navigate to `http://localhost:4200/actors`. This will redirect the request to a proxy server that is running and started on `http://localhost:3050` use proxy.conf.js to config the server fully. Actors returns a demo json file of actors who have appeared in starwars movies. I use `concurrently` to start both the demo restful server `json-server` and the webpack dev server as shown below :    
 
 "startall": "concurrently \"npm run rest\" \"npm run web\""
 
