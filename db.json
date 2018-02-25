@@ -1,0 +1,85 @@
+{
+"actors" : [
+    {
+      "id": 1,
+      "name": "Mark Hamill",
+      "filmtitle": "starwars: A New Hope",
+      "character": "Luke Skywalker",
+      "presence" : "screen",
+      "year": 1977,
+      "saga": "Stars Wars : Original trilogy"
+    },
+    {
+        "id": 2,
+        "name": "David Prowse",
+        "filmtitle": "A New Hope",
+        "character": "Darth Vader",
+        "presence" : "screen",
+        "year": 1977,
+        "saga": "Stars Wars : Original trilogy"
+    },
+    {
+        "id": 3,
+        "name": "James Earl Jones",
+        "filmtitle": "A New Hope",
+        "character": "Darth Vader",
+        "presence" : "voice",
+        "year": 1977,
+        "saga": "Stars Wars : Original trilogy"
+    },
+    {
+        "id": 4,
+        "name": "Harrsion Ford",
+        "filmtitle": "A New hope",
+        "character": "Han Solo",
+        "presence" : "screen",
+        "year": 1977,
+        "saga": "Stars Wars : Original trilogy"
+    },
+    {
+        "id": 5,
+        "name": "Carrie Fisher",
+        "filmtitle": "A New hope",
+        "character": "Leia Organa",
+        "presence" : "screen",
+        "year": 1977,
+        "saga": "Stars Wars : Original trilogy"
+    },
+    {
+        "id": 6,
+        "name": "Alex Guinness",
+        "filmtitle": "A New hope",
+        "character": "Obi-Wan Kenobi",
+        "presence" : "screen",
+        "year": 1977,
+        "saga": "Stars Wars : Original trilogy"
+    },
+    {
+        "id": 7,
+        "name": "Peter Mayhew",
+        "filmtitle": "A New hope",
+        "character": "Chewbacca",
+        "presence" : "screen",
+        "year": 1977,
+        "saga": "Stars Wars : Original trilogy"
+    },
+    {
+        "id": 8,
+        "name": "Anthony Daniels",
+        "filmtitle": "A New hope",
+        "character": "C-3PO",
+        "presence" : "screen",
+        "year": 1977,
+        "saga": "Stars Wars : Original trilogy"
+    },
+    {
+        "id": 9,
+        "name": "Kenny Baker",
+        "filmtitle": "A New hope",
+        "character": "R2-D2",
+        "presence" : "screen",
+        "year": 1977,
+        "saga": "Stars Wars : Original trilogy"
+    }
+  ]
+}
